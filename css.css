@@ -1,0 +1,35 @@
+h3{
+
+	background-color:rgba (0,127,254,1);
+	background-color: #ffd979;
+	opacity: 5.0;
+	
+	
+}
+
+p{
+	
+	color:blue;
+	font-size: 300%;
+}
+
+body{
+	
+	background-image: url("BG/Fond.jpg");
+	background-attachment: scroll;
+	background-repeat : repeat-x;
+	/*background-position : top right;*/
+}
+
+.titre{
+	
+	color:dark;
+	/*border:10px inset;*/
+	font-size: 400%;
+	font-family: 'Shrikhand', cursive;
+	font-style:italic;
+	font-weight:bolt;
+	text-decoration: underline ;
+	border-radius: 15px 15px 0px 0px;
+	margin:0 auto;
+}
